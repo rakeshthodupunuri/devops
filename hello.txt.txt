@@ -1,4 +1,1 @@
-hry 
-rey
-uk australia
-india
+echo "hello"
